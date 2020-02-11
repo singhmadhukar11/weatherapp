@@ -1,0 +1,30 @@
+.wet-main{
+    font-size: 30px;
+    font-weight: 600;
+    color: #fff;
+}
+
+.city{
+    font-size: 20px;
+    font-weight: 600;
+    color: #fff;
+}
+
+.tempData{
+    font-size: 30px;
+    font-weight: 600;
+    color: #fff;
+}
+/* .temp_Data{
+    width: 84px;
+white-space: nowrap;
+overflow: hidden;
+display: inline-flex;
+} */
+
+.todayDate{
+    font-size: 18px;
+    color: #fff;
+    padding-right: 20Px;
+    font-weight: 600;
+}
